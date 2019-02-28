@@ -59,4 +59,4 @@ Temporary Items
 # End of https://www.gitignore.io/api/linux,macos,visualstudiocode
 /node_modules
  db.sqlite
- /utils/config.js
+.env
